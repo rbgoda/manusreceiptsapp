@@ -1,0 +1,38 @@
+.gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+
+# Flask
+instance/
+.flaskenv
+
+# React
+build/
+dist/
+.vite/
+node_modules/
+
+# Logs
+*.log
+
+# Database
+*.db
+
+# Misc
+.DS_Store
+
+# Screenshots (if any)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Zip files
+*.zip
